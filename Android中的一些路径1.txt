@@ -1,0 +1,9 @@
+SDK默认路径
+C:\Users\19693\AppData\Local\Android\Sdk
+
+
+AVD默认路径
+C:\Users\19693\.android\avd
+
+
+dd
